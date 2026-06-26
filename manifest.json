@@ -1,16 +1,11 @@
 {
-  "id": "com.meatbag.oanncustom",
-  "version": "1.0.0",
-  "name": "OANN Custom Stream",
-  "description": "Bypasses stream blocks using custom proxy headers.",
-  "resources": ["catalog", "stream"],
-  "types": ["tv"],
-  "idPrefixes": ["custom_oann_"],
-  "catalogs": [
+  "metas": [
     {
-      "id": "custom_live_tv",
+      "id": "custom_oann_channel",
       "type": "tv",
-      "name": "My Custom Channels"
+      "name": "OANN Live",
+      "poster": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/poster.jpg",
+      "posterShape": "square"
     }
   ]
 }
