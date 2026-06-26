@@ -8,7 +8,7 @@
     "stream"
   ],
   "types": [
-    "tv"
+    "movie"
   ],
   "idPrefixes": [
     "custom_oann_"
@@ -16,7 +16,7 @@
   "catalogs": [
     {
       "id": "custom_live_tv",
-      "type": "tv",
+      "type": "movie",
       "name": "My Custom Channels"
     }
   ]
