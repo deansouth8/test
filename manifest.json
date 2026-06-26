@@ -5,13 +5,14 @@
   "description": "Bypasses stream blocks natively via GitHub routing.",
   "resources": [
     "catalog",
+    "meta",
     "stream"
   ],
   "types": [
     "movie"
   ],
   "idPrefixes": [
-    "tt"
+    "custom_oann_"
   ],
   "catalogs": [
     {
