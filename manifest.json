@@ -2,10 +2,17 @@
   "id": "com.meatbag.oanncustom",
   "version": "1.0.0",
   "name": "OANN Custom Stream",
-  "description": "Natively bypasses stream blocks.",
-  "resources": ["catalog", "stream"],
-  "types": ["movie"],
-  "idPrefixes": ["custom_oann_"],
+  "description": "Bypasses stream blocks natively via GitHub routing.",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "custom_oann_"
+  ],
   "catalogs": [
     {
       "id": "custom_live_tv",
