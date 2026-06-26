@@ -1,14 +1,14 @@
 {
   "metas": [
     {
-      "id": "custom_oann_channel",
+      "id": "custom_oann",
       "type": "tv",
       "name": "OANN Live",
       "poster": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/poster.jpg",
       "posterShape": "square"
     },
     {
-      "id": "custom_fox_channel",
+      "id": "custom_fox",
       "type": "tv",
       "name": "Fox News",
       "poster": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/poster.jpg",
