@@ -1,0 +1,10 @@
+{
+  "metas": [
+    {
+      "id": "custom_oann_channel",
+      "type": "tv",
+      "name": "OANN Live",
+      "posterShape": "square"
+    }
+  ]
+}
