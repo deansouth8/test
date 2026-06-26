@@ -1,14 +1,15 @@
 {
   "id": "com.meatbag.oanncustom",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "name": "Custom News Streams",
   "description": "Bypasses stream blocks natively via GitHub routing.",
   "resources": [
     "catalog",
+    "meta",
     "stream"
   ],
   "types": [
-    "tv"
+    "movie"
   ],
   "idPrefixes": [
     "custom_"
@@ -16,7 +17,7 @@
   "catalogs": [
     {
       "id": "custom_live_tv",
-      "type": "tv",
+      "type": "movie",
       "name": "My Custom Channels"
     }
   ]
