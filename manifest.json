@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "name": "OANN Custom Stream",
   "description": "Bypasses stream blocks natively via GitHub routing.",
-  "resources": ["catalog", "stream"],
-  "types": ["tv"],
-  "idPrefixes": ["custom_oann_"],
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "tv"
+  ],
+  "idPrefixes": [
+    "custom_oann_"
+  ],
   "catalogs": [
     {
       "id": "custom_live_tv",
