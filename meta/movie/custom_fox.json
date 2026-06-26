@@ -3,8 +3,8 @@
     "id": "custom_fox",
     "type": "movie",
     "name": "Fox News",
-    "poster": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/poster.jpg",
+    "poster": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/foxnews.jpg",
     "posterShape": "square",
-    "background": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/poster.jpg"
+    "background": "https://raw.githubusercontent.com/deansouth8/test/refs/heads/main/foxnews.jpg"
   }
 }
