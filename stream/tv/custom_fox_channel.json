@@ -1,0 +1,17 @@
+{
+  "streams": [
+    {
+      "title": "Fox News Live Stream (HQ)",
+      "url": "https://s17.usnlive.com/stream/foxnews.m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+            "Referer": "https://usnewson.com/"
+          }
+        }
+      }
+    }
+  ]
+}
